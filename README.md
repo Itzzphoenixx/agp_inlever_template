@@ -22,8 +22,8 @@ Platform:
 | Online Product backlog & Sprint backlog + DoD (Trello)    | [Backlog]
 | Sprint retrospective verslagen (pdf)                      | [RetrospectiveVerslagen]
 | Logboek (pdf)                                             | [Logboek]
-| Opnames sprint retrospectives (Teams opnames)             | [Folder op teams]
-| Opnames standups (Teams opnames)                          | [Folder op teams]
+| Opnames sprint retrospectives (Teams opnames)             | [Playlist Van Videos]
+| Opnames standups (Teams opnames)                          | [Playlist Van Videos]
 |<img width=500/>|<img width=300/>|
    
 #### Producten Werkproces 3
@@ -36,10 +36,9 @@ Platform:
 |<img width=500/>|<img width=300/>|
 
    [Backlog]: <https://unreal-academy.codecks.io/decks>
-   [Logboek]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/logboek.pdf>
+   [Logboek]: <https://github.com/Itzzphoenixx/agp_inlever_template/blob/master/producten/logboek.pdf>
    [GameDesignDoc]: <https://unreal-academy.codecks.io/decks/148-functioneel-ontwerp>
-   [RetrospectiveVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
-   [ReviewVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
+   [RetrospectiveVerslagen]: <https://github.com/Itzzphoenixx/agp_inlever_template/blob/master/producten/Retrospective_Verslag.pdf>
+   [ReviewVerslagen]: <https://github.com/Itzzphoenixx/agp_inlever_template/blob/master/producten/Sprint_Review_verslag.pdf>
    [Prototype]: <https://www.mijnmytheprototype.nl>
-   [Folder op teams]: <https://www.linknaarmijnfolderopteams.nl>
-   
+   [Playlist Van Videos]: https://www.youtube.com/playlist?list=PLnBx3KKOKHtALh1aE0SLvpywmG3A-yhSj
